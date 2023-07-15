@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Harsh\Desktop\Disease\app.py"
